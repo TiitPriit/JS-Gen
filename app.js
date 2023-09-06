@@ -34,7 +34,7 @@ mySet.add(true);
 
 const thisIsJSON ={
     "name" : "Kallas Oskar",
-    "age" : 191,
+    "age" : 16,
 }
 
 // if statements and shorthand expressions
