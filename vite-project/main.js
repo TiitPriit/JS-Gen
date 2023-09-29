@@ -23,7 +23,7 @@ document.querySelector('#app').innerHTML = `
 <br>
 <br>
 
-<img id="image" src="" alt="Dog" width="350px" height="350px" />
+<img id="image" src="" alt="Dog" width="350px" height="350px" />    
 `;
 
 
